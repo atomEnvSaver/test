@@ -10,3 +10,4 @@ main2
 new 1
 new 2
 detached branch
+add in remote
