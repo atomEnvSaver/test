@@ -13,3 +13,4 @@ detached branch
 add in remote
 add in remote 2022/01/19
 add in newBranch in remote
+add in local
