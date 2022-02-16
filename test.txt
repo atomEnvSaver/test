@@ -18,3 +18,5 @@ added i  newBranch
 3
 4
 done in main
+this must be done in newB
+another in newB
